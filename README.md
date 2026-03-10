@@ -76,12 +76,7 @@ nor(y,a,b);
 xnor(z,a,b);
 endmodule
 ```
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable:**
+ **Logic symbol & Truthtable:**
 <img width="762" height="191" alt="Screenshot 2026-03-10 192947" src="https://github.com/user-attachments/assets/d6c00455-4c3d-4ad6-9492-5d8227773c5d" />
 
 
@@ -100,7 +95,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 Thus the basic logic gates are studied and the truth tables are verified.
 
-NAME:KALPANA M
+DEVELOPED BY:KALPANA M
 REGISTER NO:212225240064
 
 
